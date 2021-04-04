@@ -147,11 +147,11 @@ contract DEFI_DEMO is Creator {
             projectAddress = projectAddr ;
             is_first = 1;
         }
-        NODE_CONFIG.push(node_config({id:0,price : 5 * 1000000,pre_price:1 * 1000000,last_price:4 * 1000000, percent : 5, day:5,sign1:19,sign2:31,sure_duration:5,sign_duration:5}));
-        NODE_CONFIG.push(node_config({id:1,price : 10 * 1000000,pre_price:2 * 1000000,last_price:8 * 1000000, percent : 10, day:5,sign1:19,sign2:31,sure_duration:5,sign_duration:5}));
-        NODE_CONFIG.push(node_config({id:2,price : 30 * 1000000,pre_price:6 * 1000000,last_price:24 * 1000000, percent : 10, day:10,sign1:20,sign2:32,sure_duration:5,sign_duration:5}));
-        NODE_CONFIG.push(node_config({id:3,price : 50 * 1000000,pre_price:10 * 1000000,last_price:40 * 1000000, percent : 12, day:15,sign1:20,sign2:32,sure_duration:5,sign_duration:5}));
-        NODE_CONFIG.push(node_config({id:4,price : 100 * 1000000,pre_price:20 * 1000000,last_price:80 * 1000000, percent : 15, day:15,sign1:20,sign2:32,sure_duration:5,sign_duration:5}));
+        NODE_CONFIG.push(node_config({id:0,price : 3000 * 1000000,pre_price:600 * 1000000,last_price:2400 * 1000000, percent : 5, day:5,sign1:19,sign2:31,sure_duration:5,sign_duration:5}));
+        NODE_CONFIG.push(node_config({id:1,price : 5000 * 1000000,pre_price:1000 * 1000000,last_price:4000 * 1000000, percent : 10, day:5,sign1:19,sign2:31,sure_duration:5,sign_duration:5}));
+        NODE_CONFIG.push(node_config({id:2,price : 10000 * 1000000,pre_price:2000 * 1000000,last_price:8000 * 1000000, percent : 10, day:10,sign1:20,sign2:32,sure_duration:5,sign_duration:5}));
+        NODE_CONFIG.push(node_config({id:3,price : 30000 * 1000000,pre_price:6000 * 1000000,last_price:24000 * 1000000, percent : 12, day:15,sign1:20,sign2:32,sure_duration:5,sign_duration:5}));
+        NODE_CONFIG.push(node_config({id:4,price : 50000 * 1000000,pre_price:10000 * 1000000,last_price:40000 * 1000000, percent : 15, day:15,sign1:20,sign2:32,sure_duration:5,sign_duration:5}));
 
     }
     function timestampFromDate(uint year, uint month, uint day) internal pure returns (uint timestamp) {

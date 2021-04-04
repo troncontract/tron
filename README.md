@@ -2,7 +2,29 @@
 
 Tron blockchain and its Dapp ecosystem ensure that people can coordinate in an trustless environment, all the tasks will be done onchain and transparent!
 
+## How we generate profit
+
 The profit comes from our option robots which operate on top exchanges like Binance and Huobi! Our platfrom will only deduct minimum management fee and return most of profits to our users. We also provide liquality and lending on DEX like JustSwasp. All the profits will be return to our Tron users.
+
+We also have blockchain business in areas like games and Quantitative Trading, most parts of the profits will be put in our profit pool and our star uses can keep benefiting from it.  
+
+## static revenue
+
+Contract value: 3000 - 50000 TRX, daily revenue: 0.5% - 1.5%
+
+## Dynamic revenue
+
+One star: 100% of profits from 1 level members
+
+Two stars: 100% of profits from 1 level members, 40% of profits from level 2 members
+
+Three stars: 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes 
+
+Four stars: 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members
+
+Five stars: 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above
+
+Six stars: 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above, and also benefit from global share
 
 ## Usage
 
