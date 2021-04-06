@@ -16,15 +16,15 @@ Contract value: 3000 - 50000 TRX, daily revenue: 0.5% - 1.5%
 
 One star: 100% of profits from 1 level members
 
-Two stars: 100% of profits from 1 level members, 40% of profits from level 2 members
+Two stars: Directly introduce 3 members and with totally 10 members under. 100% of profits from 1 level members, 40% of profits from level 2 members
 
-Three stars: 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes 
+Three stars: Directly introduce 3 members of level 2-star. 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes 
 
-Four stars: 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members
+Four stars: Directly introduce 4 members of level 2-star. 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members
 
-Five stars: 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above
+Five stars: Directly introduce 5 members of level 2-star. 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above
 
-Six stars: 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above, and also benefit from global share
+Six stars: Self is 5 star and directly introduce 1 members of level 5-star. 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above, and also benefit from global share
 
 ## Usage
 
