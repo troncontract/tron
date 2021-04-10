@@ -1,6 +1,6 @@
 # tron-contracts
 
-Tron blockchain and its Dapp ecosystem ensure that people can coordinate in an trustless environment, all the tasks will be done onchain and transparent!
+Tron blockchain and its Dapp ecosystem ensure that people can coordinate in an trustless environment, all the tasks will be done on-chain and transparent!
 
 ## How we generate profit
 
@@ -24,7 +24,7 @@ Four stars: Directly introduce 4 members of level 2-star. 100% of profits from 1
 
 Five stars: Directly introduce 5 members of level 2-star. 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above
 
-Six stars: Self is 5 star and directly introduce 1 members of level 5-star. 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above, and also benefit from global share
+Six stars: Self is 5 star and directly introduce 1 members of level 5-star. 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above, and also benefit from global node share of 300000 TRX
 
 ## Usage
 
