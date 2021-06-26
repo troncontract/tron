@@ -26,6 +26,12 @@ Five stars: Directly introduce 5 members of level 2-star. 100% of profits from 1
 
 Six stars: Self is 5 star and directly introduce 1 members of level 5-star. 100% of profits from 1 level members, 40% of profits from level 2 members, 20% of profits from level 3 membes, 2% of profits from level 4 members and above, and also benefit from global node share of 300000 TRX
 
+# account freeze
+
+There are several cases that your account will be frozen:
+1. When the last round of contract is completed but you have not reserved new contract in 10 days.
+2. If the system detects that your account is exploiting the contract for profits using multiple accounts or robots, there is also a possibility that your account will be frozen.
+
 ## Usage
 
 ### Install tronbox:
