@@ -30,7 +30,11 @@ Six stars: Self is 5 star and directly introduce 1 members of level 5-star. 100%
 
 There are several cases that your account will be frozen:
 1. When the last round of contract is completed but you have not reserved new contract in 10 days.
-2. If the system detects that your account is exploiting the contract for profits using multiple accounts or robots, there is also a possibility that your account will be frozen.
+2. 5-star and 6-star users are eligible for liquidity mining in the future, so the system will monitor those accounts. If the system detects that your account is exploiting the contract for profits using multiple accounts or robots, there is also a possibility that your account will be frozen.
+
+# liquidity mining
+
+The ultimate goal of tron contract is to provide liquidity for tron system, including decentralized exchanges, lending protocols, stable coin pools and all kinds of DeFi procotols to accelarate the growth of tron blockchain. All the tron contract users will benefit from our future yield farming protocols by staking tron and our own tokens which will be issued soon, stay tuned!
 
 ## Usage
 
